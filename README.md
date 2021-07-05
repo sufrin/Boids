@@ -1,6 +1,7 @@
 # Boids
 ## Boid simulation using ThreadCSO
-Simple example of a hybrid concurrent implementation using threadcso
+Simple example of a hybrid concurrent implementation using 
+[ThreadCSO](https://github.com/sufrin/ThreadCSO)
 barriers, semaphores, and channels.
 
 The flock program simulates a collection of flocking birds, as
